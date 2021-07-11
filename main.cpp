@@ -1,6 +1,7 @@
 #include <graphics.h>	//EasyX
 #include <conio.h>		//_getch
 #include"Command.h"
+#include"shape.h"
 int main()
 {
 	initgraph(1280, 720);	//initialize graphics
